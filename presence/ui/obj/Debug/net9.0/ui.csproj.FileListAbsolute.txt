@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\pr1\presence\ui\obj\Debug\net9.0\ui.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\pr1\presence\ui\obj\Debug\net9.0\ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pr1\presence\ui\obj\Debug\net9.0\ui.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pr1\presence\ui\obj\Debug\net9.0\ui.AssemblyInfo.cs
+C:\Users\User\Desktop\pr1\presence\ui\obj\Debug\net9.0\ui.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pr1\presence\ui\bin\Debug\net9.0\ui.deps.json
+C:\Users\User\Desktop\pr1\presence\ui\bin\Debug\net9.0\ui.dll
+C:\Users\User\Desktop\pr1\presence\ui\bin\Debug\net9.0\ui.pdb
+C:\Users\User\Desktop\pr1\presence\ui\bin\Debug\net9.0\data.dll
+C:\Users\User\Desktop\pr1\presence\ui\bin\Debug\net9.0\domain.dll
+C:\Users\User\Desktop\pr1\presence\ui\bin\Debug\net9.0\domain.pdb
+C:\Users\User\Desktop\pr1\presence\ui\bin\Debug\net9.0\data.pdb
+C:\Users\User\Desktop\pr1\presence\ui\obj\Debug\net9.0\ui.csproj.Up2Date
+C:\Users\User\Desktop\pr1\presence\ui\obj\Debug\net9.0\ui.dll
+C:\Users\User\Desktop\pr1\presence\ui\obj\Debug\net9.0\refint\ui.dll
+C:\Users\User\Desktop\pr1\presence\ui\obj\Debug\net9.0\ui.pdb
+C:\Users\User\Desktop\pr1\presence\ui\obj\Debug\net9.0\ref\ui.dll

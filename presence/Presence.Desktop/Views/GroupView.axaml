@@ -1,0 +1,60 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:Presence.Desktop.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Presence.Desktop.Views.GroupView"
+        x:DataType="vm:GroupViewModel">
+
+    <Design.DataContext>
+        <vm:GroupViewModel/>
+    </Design.DataContext>
+	<DockPanel Background="Black">
+		<StackPanel DockPanel.Dock="Bottom">
+			<TextBlock Text="List" HorizontalAlignment="Center"/>
+		</StackPanel>
+		<StackPanel 
+			Spacing="10"
+			HorizontalAlignment="Center"
+			DockPanel.Dock="Top"
+			Orientation="Horizontal">
+			<TextBlock Text="Combobox"/>
+			<ComboBox  ItemsSource="{Binding Groups}" SelectedValue="{Binding SelectedGroupItem}">
+				<ComboBox.ItemTemplate>
+					<DataTemplate>
+						<TextBlock Text="{Binding Name}"/>
+					</DataTemplate>
+				</ComboBox.ItemTemplate>
+			</ComboBox>
+			<Button  Width="100" Command="{Binding OpenFileDialog}"/>
+			
+		</StackPanel>
+		<Border>
+			<ListBox SelectionMode="Multiple" Selection="{Binding Selection}" Background="Bisque" ItemsSource="{Binding Users}">
+				<ListBox.ContextMenu>
+					<ContextMenu>
+						<MenuItem
+						  IsVisible="{Binding !MultipleSelected}"
+						  Header="Remove"
+						  Command="{Binding RemoveUserCommand}"
+						  CommandParameter="{Binding Selection.SelectedItem}"
+						  Foreground="Black"/>
+						<MenuItem
+						  IsVisible="{Binding MultipleSelected}"
+						  Header="RemoveAll"
+						  Command="{Binding RemoveAllSelectedCommand}"
+						  Foreground="Black"/>
+					</ContextMenu>
+				</ListBox.ContextMenu>
+				<ListBox.ItemTemplate>
+					<DataTemplate>
+						<StackPanel Orientation="Horizontal">
+							<TextBlock Text="{Binding Name}" Foreground="Black"/>
+						</StackPanel>
+					</DataTemplate>
+				</ListBox.ItemTemplate>
+			</ListBox>
+		</Border>
+	</DockPanel>
+</UserControl>

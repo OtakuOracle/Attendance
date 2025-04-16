@@ -1,0 +1,125 @@
+﻿using System;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
+using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
+using presence.data.RemoteData.RemoteDataBase;
+
+#nullable disable
+
+namespace data.Migrations
+{
+    [DbContext(typeof(RemoteDatabaseContext))]
+    [Migration("20241202104632_InitialCreate")]
+    partial class InitialCreate
+    {
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        {
+#pragma warning disable 612, 618
+            modelBuilder
+                .HasAnnotation("ProductVersion", "8.0.10")
+                .HasAnnotation("Relational:MaxIdentifierLength", 63);
+
+            NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
+
+            modelBuilder.Entity("Demo.Data.RemoteData.RemoteDataBase.DAO.GroupDao", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Groups");
+                });
+
+            modelBuilder.Entity("Demo.Data.RemoteData.RemoteDataBase.DAO.PresenceDao", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<DateOnly>("Date")
+                        .HasColumnType("date");
+
+                    b.Property<bool>("IsAttedance")
+                        .HasColumnType("boolean");
+
+                    b.Property<int>("LessonNumber")
+                        .HasColumnType("integer");
+
+                    b.Property<Guid>("UserGuid")
+                        .HasColumnType("uuid");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserGuid");
+
+                    b.ToTable("PresenceDaos");
+                });
+
+            modelBuilder.Entity("Demo.Data.RemoteData.RemoteDataBase.DAO.UserDao", b =>
+                {
+                    b.Property<Guid>("Guid")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("FIO")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<int>("GroupID")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Guid");
+
+                    b.HasIndex("GroupID");
+
+                    b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("Demo.Data.RemoteData.RemoteDataBase.DAO.PresenceDao", b =>
+                {
+                    b.HasOne("Demo.Data.RemoteData.RemoteDataBase.DAO.UserDao", "UserDao")
+                        .WithMany("Presences")
+                        .HasForeignKey("UserGuid")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("UserDao");
+                });
+
+            modelBuilder.Entity("Demo.Data.RemoteData.RemoteDataBase.DAO.UserDao", b =>
+                {
+                    b.HasOne("Demo.Data.RemoteData.RemoteDataBase.DAO.GroupDao", "Group")
+                        .WithMany("Users")
+                        .HasForeignKey("GroupID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Group");
+                });
+
+            modelBuilder.Entity("Demo.Data.RemoteData.RemoteDataBase.DAO.GroupDao", b =>
+                {
+                    b.Navigation("Users");
+                });
+
+            modelBuilder.Entity("Demo.Data.RemoteData.RemoteDataBase.DAO.UserDao", b =>
+                {
+                    b.Navigation("Presences");
+                });
+#pragma warning restore 612, 618
+        }
+    }
+}
