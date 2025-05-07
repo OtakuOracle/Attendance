@@ -1,93 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\pr1\\presence\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Attendance\\presence\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\viewmodels\\groupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Attendance\\presence\\presence_api\\bin\\Debug\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:presence_api\\bin\\Debug\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3272AF99-318B-49A4-AF98-9DC92F4A169E}|data\\data.csproj|c:\\users\\user\\desktop\\attendance\\presence\\data\\remotedata\\remotedatabase\\remotedatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3272AF99-318B-49A4-AF98-9DC92F4A169E}|data\\data.csproj|solutionrelative:data\\remotedata\\remotedatabase\\remotedatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\viewmodels\\groupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\viewmodels\\groupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\views\\groupview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\views\\groupview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\views\\groupview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\views\\groupview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\views\\groupview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\views\\groupview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\di\\servicecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\di\\servicecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\di\\servicecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AE8F8C6-D947-4CFB-978D-152433354812}|domain\\domain.csproj|c:\\users\\user\\desktop\\pr1\\presence\\domain\\usecase\\igroupusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AE8F8C6-D947-4CFB-978D-152433354812}|domain\\domain.csproj|c:\\users\\user\\desktop\\attendance\\presence\\domain\\usecase\\igroupusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AE8F8C6-D947-4CFB-978D-152433354812}|domain\\domain.csproj|solutionrelative:domain\\usecase\\igroupusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AE8F8C6-D947-4CFB-978D-152433354812}|domain\\domain.csproj|c:\\users\\user\\desktop\\pr1\\presence\\domain\\service\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AE8F8C6-D947-4CFB-978D-152433354812}|domain\\domain.csproj|c:\\users\\user\\desktop\\attendance\\presence\\domain\\service\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AE8F8C6-D947-4CFB-978D-152433354812}|domain\\domain.csproj|solutionrelative:domain\\service\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3272AF99-318B-49A4-AF98-9DC92F4A169E}|data\\data.csproj|c:\\users\\user\\desktop\\pr1\\presence\\data\\repository\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3272AF99-318B-49A4-AF98-9DC92F4A169E}|data\\data.csproj|c:\\users\\user\\desktop\\attendance\\presence\\data\\repository\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3272AF99-318B-49A4-AF98-9DC92F4A169E}|data\\data.csproj|solutionrelative:data\\repository\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AE8F8C6-D947-4CFB-978D-152433354812}|domain\\domain.csproj|c:\\users\\user\\desktop\\pr1\\presence\\domain\\usecase\\groupusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AE8F8C6-D947-4CFB-978D-152433354812}|domain\\domain.csproj|c:\\users\\user\\desktop\\attendance\\presence\\domain\\usecase\\groupusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AE8F8C6-D947-4CFB-978D-152433354812}|domain\\domain.csproj|solutionrelative:domain\\usecase\\groupusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\views\\presenceview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\views\\presenceview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\views\\presenceview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AE8F8C6-D947-4CFB-978D-152433354812}|domain\\domain.csproj|c:\\users\\user\\desktop\\pr1\\presence\\domain\\usecase\\iadminusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AE8F8C6-D947-4CFB-978D-152433354812}|domain\\domain.csproj|c:\\users\\user\\desktop\\attendance\\presence\\domain\\usecase\\iadminusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AE8F8C6-D947-4CFB-978D-152433354812}|domain\\domain.csproj|solutionrelative:domain\\usecase\\iadminusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\viewmodels\\presencemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\viewmodels\\presencemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\viewmodels\\presencemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\views\\presenceview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\views\\presenceview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\views\\presenceview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6099ADC-3949-46A0-A39C-CDFE63CB1402}|presence_api\\presence_api.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence_api\\presence_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A6099ADC-3949-46A0-A39C-CDFE63CB1402}|presence_api\\presence_api.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence_api\\presence_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A6099ADC-3949-46A0-A39C-CDFE63CB1402}|presence_api\\presence_api.csproj|solutionrelative:presence_api\\presence_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\pr1\\presence\\presence.desktop\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|c:\\users\\user\\desktop\\attendance\\presence\\presence.desktop\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{9325CC1B-7AA4-45CA-9822-DBFE9BE3AEAB}|Presence.Desktop\\Presence.Desktop.csproj|solutionrelative:presence.desktop\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -98,15 +106,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 349,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\presence_api\\bin\\Debug\\net8.0\\appsettings.json",
+              "RelativeDocumentMoniker": "presence_api\\bin\\Debug\\net8.0\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\presence_api\\bin\\Debug\\net8.0\\appsettings.json",
+              "RelativeToolTip": "presence_api\\bin\\Debug\\net8.0\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T07:54:51.625Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoteDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\data\\RemoteData\\RemoteDataBase\\RemoteDatabaseContext.cs",
+              "RelativeDocumentMoniker": "data\\RemoteData\\RemoteDataBase\\RemoteDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\data\\RemoteData\\RemoteDataBase\\RemoteDatabaseContext.cs",
+              "RelativeToolTip": "data\\RemoteData\\RemoteDataBase\\RemoteDatabaseContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:51:39.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UserRepositoryImpl.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\data\\Repository\\UserRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\data\\Repository\\UserRepositoryImpl.cs",
               "RelativeDocumentMoniker": "data\\Repository\\UserRepositoryImpl.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\data\\Repository\\UserRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\data\\Repository\\UserRepositoryImpl.cs",
               "RelativeToolTip": "data\\Repository\\UserRepositoryImpl.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAowFIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -114,11 +156,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IAdminUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\domain\\UseCase\\IAdminUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\domain\\UseCase\\IAdminUseCase.cs",
               "RelativeDocumentMoniker": "domain\\UseCase\\IAdminUseCase.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\domain\\UseCase\\IAdminUseCase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\domain\\UseCase\\IAdminUseCase.cs",
               "RelativeToolTip": "domain\\UseCase\\IAdminUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,11 +168,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "GroupService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\domain\\Service\\GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\domain\\Service\\GroupService.cs",
               "RelativeDocumentMoniker": "domain\\Service\\GroupService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\domain\\Service\\GroupService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\domain\\Service\\GroupService.cs",
               "RelativeToolTip": "domain\\Service\\GroupService.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAowF8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,11 +180,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "GroupUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\domain\\UseCase\\GroupUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\domain\\UseCase\\GroupUseCase.cs",
               "RelativeDocumentMoniker": "domain\\UseCase\\GroupUseCase.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\domain\\UseCase\\GroupUseCase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\domain\\UseCase\\GroupUseCase.cs",
               "RelativeToolTip": "domain\\UseCase\\GroupUseCase.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,11 +192,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IGroupUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\domain\\UseCase\\IGroupUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\domain\\UseCase\\IGroupUseCase.cs",
               "RelativeDocumentMoniker": "domain\\UseCase\\IGroupUseCase.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\domain\\UseCase\\IGroupUseCase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\domain\\UseCase\\IGroupUseCase.cs",
               "RelativeToolTip": "domain\\UseCase\\IGroupUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,11 +204,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ServiceCollection.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\DI\\ServiceCollection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\DI\\ServiceCollection.cs",
               "RelativeDocumentMoniker": "Presence.Desktop\\DI\\ServiceCollection.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\DI\\ServiceCollection.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\DI\\ServiceCollection.cs",
               "RelativeToolTip": "Presence.Desktop\\DI\\ServiceCollection.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAASwBsAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,11 +216,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "ViewLocator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\ViewLocator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\ViewLocator.cs",
               "RelativeDocumentMoniker": "Presence.Desktop\\ViewLocator.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\ViewLocator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\ViewLocator.cs",
               "RelativeToolTip": "Presence.Desktop\\ViewLocator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,11 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "presence_api.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\presence_api\\presence_api.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\presence_api\\presence_api.csproj",
               "RelativeDocumentMoniker": "presence_api\\presence_api.csproj",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\presence_api\\presence_api.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\presence_api\\presence_api.csproj",
               "RelativeToolTip": "presence_api\\presence_api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -198,11 +240,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "PresenceView.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\Views\\PresenceView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\Views\\PresenceView.axaml.cs",
               "RelativeDocumentMoniker": "Presence.Desktop\\Views\\PresenceView.axaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\Views\\PresenceView.axaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\Views\\PresenceView.axaml.cs",
               "RelativeToolTip": "Presence.Desktop\\Views\\PresenceView.axaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -210,11 +252,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GroupView.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\Views\\GroupView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\Views\\GroupView.axaml.cs",
               "RelativeDocumentMoniker": "Presence.Desktop\\Views\\GroupView.axaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\Views\\GroupView.axaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\Views\\GroupView.axaml.cs",
               "RelativeToolTip": "Presence.Desktop\\Views\\GroupView.axaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -222,11 +264,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "MainWindow.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\Views\\MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\Views\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "Presence.Desktop\\Views\\MainWindow.axaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\Views\\MainWindow.axaml.cs",
               "RelativeToolTip": "Presence.Desktop\\Views\\MainWindow.axaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -234,11 +276,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "PresenceModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\ViewModels\\PresenceModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\ViewModels\\PresenceModel.cs",
               "RelativeDocumentMoniker": "Presence.Desktop\\ViewModels\\PresenceModel.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\ViewModels\\PresenceModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\ViewModels\\PresenceModel.cs",
               "RelativeToolTip": "Presence.Desktop\\ViewModels\\PresenceModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,24 +288,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GroupViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\ViewModels\\GroupViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\ViewModels\\GroupViewModel.cs",
               "RelativeDocumentMoniker": "Presence.Desktop\\ViewModels\\GroupViewModel.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\ViewModels\\GroupViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\ViewModels\\GroupViewModel.cs",
               "RelativeToolTip": "Presence.Desktop\\ViewModels\\GroupViewModel.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAwwGkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T08:30:59.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T08:30:59.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\ViewModels\\MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "Presence.Desktop\\ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "Presence.Desktop\\ViewModels\\MainWindowViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,11 +312,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\ViewModels\\ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "Presence.Desktop\\ViewModels\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\ViewModels\\ViewModelBase.cs",
               "RelativeToolTip": "Presence.Desktop\\ViewModels\\ViewModelBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -283,11 +324,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "App.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\App.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\App.axaml.cs",
               "RelativeDocumentMoniker": "Presence.Desktop\\App.axaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\App.axaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\App.axaml.cs",
               "RelativeToolTip": "Presence.Desktop\\App.axaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,55 +336,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GroupView.axaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\Views\\GroupView.axaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\Views\\GroupView.axaml",
               "RelativeDocumentMoniker": "Presence.Desktop\\Views\\GroupView.axaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\Views\\GroupView.axaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\Views\\GroupView.axaml",
               "RelativeToolTip": "Presence.Desktop\\Views\\GroupView.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-26T08:25:04.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "MainWindow.axaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\Views\\MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\Views\\MainWindow.axaml",
               "RelativeDocumentMoniker": "Presence.Desktop\\Views\\MainWindow.axaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\Views\\MainWindow.axaml",
               "RelativeToolTip": "Presence.Desktop\\Views\\MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-26T08:24:58.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "PresenceView.axaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\Views\\PresenceView.axaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\Views\\PresenceView.axaml",
               "RelativeDocumentMoniker": "Presence.Desktop\\Views\\PresenceView.axaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\Views\\PresenceView.axaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\Views\\PresenceView.axaml",
               "RelativeToolTip": "Presence.Desktop\\Views\\PresenceView.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-26T08:24:56.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "App.axaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\App.axaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\App.axaml",
               "RelativeDocumentMoniker": "Presence.Desktop\\App.axaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\App.axaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\App.axaml",
               "RelativeToolTip": "Presence.Desktop\\App.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-26T08:24:53.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "app.manifest",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\app.manifest",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\app.manifest",
               "RelativeDocumentMoniker": "Presence.Desktop\\app.manifest",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\app.manifest",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\app.manifest",
               "RelativeToolTip": "Presence.Desktop\\app.manifest",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
@@ -351,11 +392,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\Program.cs",
               "RelativeDocumentMoniker": "Presence.Desktop\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\pr1\\presence\\Presence.Desktop\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Attendance\\presence\\Presence.Desktop\\Program.cs",
               "RelativeToolTip": "Presence.Desktop\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -15,9 +15,9 @@ namespace presence.data.RemoteData.RemoteDataBase
         {
             optionsBuilder.UseNpgsql("Host=45.67.56.214;" +
                 "Port=5421;" +
-                "Username=user7;" +
-                "Database=user7;" +
-                "Password=a8yLONBC");
+                "Username=user10;" +
+                "Database=user10;" +
+                "Password=FY1rOnvu");
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
